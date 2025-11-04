@@ -7,6 +7,7 @@ import maryam from "../assets/maryam_khadim.jpeg";
 import caitlyn from "../assets/caitlyn_nilo.jpeg";
 import patrick from "../assets/patrick_yen.jpeg";
 import jaya from "../assets/jaya_seecharran.jpeg";
+import khadija from "../assets/khadija_nassim.jpeg";
 
 
 export const TEAM = [
@@ -50,6 +51,13 @@ export const TEAM = [
     role: "Vice President of Social Media",
     linkedin: "https://www.linkedin.com/in/jaya-seecharran/",
     img: jaya,
+    github: "",
+  },
+      {
+    name: "Khadija Nassim",
+    role: "Vice President of Finance",
+    linkedin: "https://www.linkedin.com/in/khadija-nassim/",
+    img: khadija,
     github: "",
   },
     {
