@@ -1,11 +1,12 @@
 import React from "react";
+import featuredImg from "/src/assets/featured_hackathon.jpg";
 
 // EDIT THIS OBJECT to change featured item anytime
 const FEATURED = {
   title: "GBM 3 • Business Analytics w/ CGI",
   blurb:
     "Students learned how business analysts turn messy data into real client insights. Huge thanks to CGI for hosting!",
-  img: "/src/assets/featured_hackathon.jpg", // ensure you place the image in /src/assets
+  img: featuredImg,
   alt: "Our project subcommitee at an NVIDIA Activity at Howard University",
   date: "Nov 13, 2025",
   ctaLabel: "View Photos",
