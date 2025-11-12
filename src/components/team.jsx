@@ -54,7 +54,7 @@ export const TEAM = [
     github: "",
   },
       {
-    name: "Khadijah Nassim",
+    name: "Khadija Nassim",
     role: "Vice President of Finance",
     linkedin: "https://www.linkedin.com/in/khadija-nassim/",
     img: khadijah,
