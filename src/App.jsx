@@ -292,7 +292,7 @@ export default function App() {
                 Connect with industry professionals, organize networking events, and help expand our community reach.
               </p>
               <a
-                href="https://forms.google.com"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScjy3ygohDVjgr5a0mBQUB6kTmUNguAjYiThvJIvfWRy522Ow/viewform?usp=header"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-block rounded-2xl px-6 py-3 text-sm font-semibold text-black bg-linear-to-r from-[#4268F6] via-[#A43BF1] to-[#FF6F3C] hover:brightness-110 transition shadow-[0_0_24px_rgba(255,115,179,0.35)]"

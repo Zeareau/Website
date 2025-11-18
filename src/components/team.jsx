@@ -8,6 +8,7 @@ import caitlyn from "../assets/caitlyn_nilo.jpeg";
 import patrick from "../assets/patrick_yen.jpeg";
 import jaya from "../assets/jaya_seecharran.jpeg";
 import khadijah from "../assets/khadijah_nassim.jpeg";
+import anieesh from "../assets/anieesh_saravanan.jpeg";
 
 
 export const TEAM = [
@@ -75,9 +76,10 @@ export const TEAM = [
     github: "",
   },
         {
-    name: "You?",
-    role: "Open: Freshman Representative",
-    linkedin: "https://www.linkedin.com/",
+    name: "Anieesh Saravanan",
+    role: "Freshman Representative",
+    linkedin: "https://www.linkedin.com/in/anieesh/",
+    img: anieesh,
     github: "",
   },
 ];
