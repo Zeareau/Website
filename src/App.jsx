@@ -265,11 +265,10 @@ export default function App() {
           <p className="mt-3 text-white/70">Join one of our Subcommittees</p>
         </div>
         
-        <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+        <div className="grid md:grid-cols-2 gap-8">
           {/* Project Subcommittee Card */}
           <div className="rounded-3xl border border-white/10 p-8 bg-[#0f111a] hover:bg-white/5 transition">
             <div className="text-center">
-              <div className="text-4xl mb-4">🚀</div>
               <h4 className="text-xl font-semibold mb-4">Project Subcommittee</h4>
               <p className="text-white/70 mb-6">
                 Lead technical projects, mentor junior members, and help build solutions that make a real impact in our community.
@@ -288,7 +287,6 @@ export default function App() {
           {/* Outreach Subcommittee Card */}
           <div className="rounded-3xl border border-white/10 p-8 bg-[#0f111a] hover:bg-white/5 transition">
             <div className="text-center">
-              <div className="text-4xl mb-4">📢</div>
               <h4 className="text-xl font-semibold mb-4">Outreach Subcommittee</h4>
               <p className="text-white/70 mb-6">
                 Connect with industry professionals, organize networking events, and help expand our community reach.
